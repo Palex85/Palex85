@@ -1,17 +1,7 @@
-# Hi there! 👋
-
-
-I'm Paulo Nascimento!
-I'm a husband, a father  and son that know love!
-
-Tecnology and search are my passions 😊, I'm in constant learning, always seeking out learn several areas!
-
-I have knowleged in eletrônic 🔧 and also I'm a quality inspector 🔍.
-
-Currently I'm developing skills of programmer.
-
 
 # Palex85
+
+
 ## Conete-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/paulo-nascimento-7147408b//)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/p.a_nasci//)
